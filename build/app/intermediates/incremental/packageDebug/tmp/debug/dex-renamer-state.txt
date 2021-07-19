@@ -1,0 +1,4 @@
+#Thu Apr 22 21:30:19 PET 2021
+base.0=/Users/darioroblesroca/aire_limpio/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

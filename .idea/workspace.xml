@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eacf560-fb85-45c9-8451-d3eceb6cd4fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rX4sRhSQ3H02CavwDvA2d0VOjj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eacf560-fb85-45c9-8451-d3eceb6cd4fe" name="Default Changelist" comment="" />
+      <created>1619109306076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619109306076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="84" key="#Intentions" timestamp="1619109979179">
+      <screen x="0" y="25" width="1440" height="793" />
+    </state>
+    <state x="320" y="84" key="#Intentions/0.25.1440.793@0.25.1440.793" timestamp="1619109979179" />
+    <state x="458" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619116088355">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state x="458" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.793@0.25.1440.793" timestamp="1619109426166" />
+    <state x="458" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.800@0.25.1440.800" timestamp="1619116088355" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1619146572084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619146572084" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1619146572083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619146572083" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1619146572083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619146572083" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.25.1440.793@0.25.1440.793" timestamp="1619124335406" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1619146572084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619146572084" />
+  </component>
+</project>
